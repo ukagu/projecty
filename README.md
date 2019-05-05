@@ -1,0 +1,2 @@
+# projecty
+For practicing github
